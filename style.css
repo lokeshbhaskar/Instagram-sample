@@ -1,0 +1,14 @@
+.container{
+    width: 25vw;
+    height:90vh;
+    display: flex;
+    border: 2px solid pink;
+}
+.header{
+    display: flex;
+    height: 40px;
+    width: 100%;
+    border: 1px solid black;
+    justify-content: space-between;
+}
+ 
